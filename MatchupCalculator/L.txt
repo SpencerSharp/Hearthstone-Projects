@@ -1,0 +1,10 @@
+Token Druid
+Secret Hunter
+Odd Paladin
+Zoo Warlock
+Even Warlock
+Big Druid
+Secret Hunter
+Odd Rogue
+Zoo Warlock
+Odd Paladin
